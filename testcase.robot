@@ -1,7 +1,7 @@
 *** Settings ***
 Library  OperatingSystem
 Library  csv
-Resource  ../Resources/data_resources.robot
+Resource  data_resources.robot
 #Library  DataDriver  ../TestData/data.csv
 Library  RequestsLibrary
 Library  Collections
